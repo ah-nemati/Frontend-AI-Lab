@@ -1,4 +1,4 @@
-# 🚀 JS Mastery Hub - JavaScript Learning Blog with AI Assistance 🤖
+# 🚀 JS Mastery Hub - JavaScript Learning Blog with AI Assistance
 
 Welcome to **JS Mastery Hub** — your ultimate destination for advanced, engaging JavaScript tutorials! This static website delivers content curated and generated with cutting-edge AI models to help you master JavaScript like never before.
 
@@ -29,7 +29,3 @@ Welcome to **JS Mastery Hub** — your ultimate destination for advanced, engagi
 ---
 
 ### #JavaScript #AIEducation #WebDevelopment #CodingJourney #LearnWithAI #JSMasteryHub #CodeSmart
-
-## 🚀 Get Started
-
-1. Clone the repository:
